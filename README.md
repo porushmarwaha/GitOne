@@ -1,4 +1,4 @@
-Problem - 1 
+Problem - 1
 
 This problem was asked by Two Sigma.
 
@@ -10,3 +10,6 @@ The second game: same, except that the stopping condition is a five followed by 
 
 Which of the two games should Alice elect to play? Does it even matter? Write a program to simulate the two games and calculate their expected value.
 
+Requirement - npm install inquirer
+
+Problem - 2
