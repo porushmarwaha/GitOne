@@ -13,3 +13,5 @@ Which of the two games should Alice elect to play? Does it even matter? Write a 
 Requirement - npm install inquirer
 
 Problem - 2
+
+Write a function that flat the nested array values in a single array.
