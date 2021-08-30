@@ -14,7 +14,7 @@ Requirement - npm install inquirer
 
 Problem - 2
 
-Write a function that flat the nested array values in a single array.
+Write a function that flats the nested array values in a single array.
 
 Problem - 3
 Determine whether there exists a one-to-one character mapping from one string s1 to another s2.
